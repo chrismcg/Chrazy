@@ -1,4 +1,4 @@
-// handle_mo4l_sysex.js
+// handle_mopho_sysex.js
 
 inlets = 1;
 outlets = 2;
@@ -294,7 +294,7 @@ function list()
     var destination;
     var value;
     if (param_to_nprn_map[i] == 'sequencer') {
-      destination = 'sequencer'
+      destination = 'sequencer';
       value = [i, params[i]];
       outlet(1, [i, params[i]]);
     } else {
