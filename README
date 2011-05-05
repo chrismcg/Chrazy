@@ -1,0 +1,14 @@
+Chrazy
+======
+
+A Max for Live Mopho editor.
+
+ALPHA - Doesn't do anything useful like save with your live set yet.
+
+You can use it to examine existing patches.
+
+Requires Leigh Hunts lh_midi extension to talk NPRN to the Mopho. This makes it Mac only, sorry!
+
+Mac users can download lh_midi from http://web.mac.com/leighhunt/iWeb/Site/downloads.html
+
+PC people, please ask Ableton to allow unrestricted midi access in Live!
