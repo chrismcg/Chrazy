@@ -21,7 +21,7 @@
 		"boxes" : [ 			{
 				"box" : 				{
 					"maxclass" : "newobj",
-					"text" : "print mo4l-out",
+					"text" : "print chrazy-out",
 					"fontname" : "Arial",
 					"patching_rect" : [ 381.0, 562.0, 84.0, 20.0 ],
 					"id" : "obj-12",
@@ -34,7 +34,7 @@
 , 			{
 				"box" : 				{
 					"maxclass" : "newobj",
-					"text" : "print mo4l-in",
+					"text" : "print chrazy-in",
 					"fontname" : "Arial",
 					"patching_rect" : [ 417.0, 241.0, 77.0, 20.0 ],
 					"id" : "obj-7",
